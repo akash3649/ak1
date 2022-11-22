@@ -8,8 +8,7 @@ public class ArrayList1 {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Tushar");
-		System.out.println("Akash");
+		
 		
 		List <String> L = new ArrayList<String>();
 		
